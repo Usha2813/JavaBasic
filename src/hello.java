@@ -6,7 +6,7 @@ public class hello {
 
         System.out.println("Git Session");
 
-        System.out.println("Git Session");
+//        System.out.println("Git Session");
     }
 }
 
